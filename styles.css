@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  color: white;
+}
+
+nav {
+  width: 200px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+a {
+  color: aqua;
+}
+
+p {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+hr {
+  border: 1px solid #ff8c00;
+}
+
+span {
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.section {
+  background-color: #faebd7;
+  padding: 10px;
+  margin: 8px 0px;
+}
+
+.about-page {
+  border: 8px solid magenta;
+}
+
+.info-section {
+  border: 8px solid cyan;
+}
+
+.meme-section {
+  border: 8px solid orange;
+}
+
+.meme-section img {
+  margin-bottom: 20px;
+}
+
+footer {
+  color: white;
+}
+
+footer p {
+  font-size: 1em;
+  text-align: center;
+  margin: 15px;
+}
+
+marquee {
+  font-size: 12px;
+}
